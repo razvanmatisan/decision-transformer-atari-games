@@ -1,6 +1,6 @@
 # Atari
 
-We build our Atari implementation on top of [minGPT](https://github.com/karpathy/minGPT) and benchmark our results on the [DQN-replay](https://github.com/google-research/batch_rl) dataset. 
+We build our Atari implementation on top of [minGPT](https://github.com/karpathy/minGPT) and benchmark our results on the [DQN-replay](https://github.com/google-research/batch_rl) and [Atari Grand Challenge](https://paperswithcode.com/dataset/atari-grand-challenge) datasets.
 
 ## Installation
 
